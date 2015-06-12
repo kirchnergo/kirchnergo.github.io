@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Launched"
-date: 2015-06-16
+date: 2015-06-12
 ---
 
 Well. Finally got around to putting this website together. 
