@@ -1,2 +1,2 @@
 # kirchnergo.github.io
-My blog.
+This is my blog.
